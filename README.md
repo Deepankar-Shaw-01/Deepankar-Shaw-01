@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm Deepankar Shaw
 
-<!--
-**Deepankar-Shaw-01/Deepankar-Shaw-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 BCA Student at The Heritage Academy (MAKAUT)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Software Developer
+
+🌱 Currently learning Java, Python, C++, HTML, CSS, JavaScript and MySQL
+
+🚀 Building projects to strengthen my development skills
+
+---
+
+## 🛠 Tech Stack
+
+- Java
+- Python
+- C++
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: shawdeepankar01@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/deepankarshaw01
